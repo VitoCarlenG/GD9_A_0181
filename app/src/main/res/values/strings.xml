@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GD9_A_0181</string>
+    <string name="nama">Nama</string>
+    <string name="npm">NPM</string>
+    <string name="fakultas">Fakultas</string>
+    <string name="prodi">Prodi</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="batal">Batal</string>
+    <string name="simpan">Simpan</string>
+    <string name="tambah_mahasiswa">Tambah Mahasiswa</string>
+    <string name="edit_mahasiswa">Edit Mahasiswa</string>
+    <string name="loading_text">Loading...</string>
+    <string name="nama_mahasiswa">Nama Mahasiswa</string>
+    <string name="fakultas_prodi">Fakultas - Prodi</string>
+</resources>
